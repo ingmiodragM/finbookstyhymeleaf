@@ -1,4 +1,4 @@
-# knjigovodstvo
+# finbookstyhymeleaf
  	STS Spring Boot app
 	Ajax with Bootstrap table (render) example
 	Thymeleaf example
